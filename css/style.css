@@ -1,0 +1,26 @@
+.titulo {
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+}
+
+.colorTexto {
+    color:blue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+#parrafo {
+    border-top: 5px solid black; /* solido, contiguo */
+    border-right: 8px dashed black; /* interlineado */
+    border-bottom: 12px dotted black; /* punteado */
+    border-left: 7px double black; /* doble */
+    padding-top: 30px; /* relleno interno de la caja */
+    padding-right: 50px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+}
+
+
+    
