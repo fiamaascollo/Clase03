@@ -22,5 +22,18 @@
     padding-left: 80px;
 }
 
+img {
+    width: 600px;
+    height: 300px;
+    border-top: 5px solid black;
+}
 
+.padre {
+    text-align: center; /* viene en left por default  */
+    background-color: rgb(226, 43, 43);
+}
+
+h2 {
+    background-color: blue;
+}
     
